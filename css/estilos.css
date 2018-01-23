@@ -1,11 +1,7 @@
 body{
-	background: #B40404;
+	background: #FF0000;
 }
-header{
-	background: black;
-	height: 150px;
-	width: 100%;
-}
+
 #im1{
 	margin-top: 5%;
 	margin-left: 5%;
@@ -13,3 +9,26 @@ header{
 #social{
 	margin-top: 100%;
 }
+#saludo{
+	color: #FBF8EF;
+	text-align: center;
+	font-size: 70px;
+	font-family: verdana;
+	font-weight: bold;
+	text-shadow: 5px 5px 10px red;
+}
+#titulo1{
+	margin-left: 25px;
+	font-family: helvetica;
+	font-size: 50px;
+	color: #610B0B;
+	font-weight: bold;
+	
+}
+#articulo1{
+	margin-right: 25px;
+	margin-left: 25px;
+	font-size: 17px;
+	color: #610B0B;
+}
+
