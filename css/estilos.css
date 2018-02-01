@@ -5,9 +5,13 @@ body{
 #im1{
 	margin-top: 5%;
 	margin-left: 5%;
+	border:10px outset #FE2E2E;
+	margin-bottom: 5%;
+
 }
 #social{
-	margin-top: 100%;
+	margin-top: 80%;
+	border:10px outset #FE2E2E;
 }
 #saludo{
 	color: #FBF8EF;
@@ -35,7 +39,52 @@ body{
 	width: 250px;
 	height: 250px;
 	margin:25px;
+	border:10px outset #FE2E2E;
 }
 #comment{
-	float: center;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+ #titulobus{
+ 	color: #610B0B;
+ 	font-weight: bold;
+ 	font-family: helvetica;
+ 	text-align:center;
+ 	height: 50px;
+ }
+#opbus{
+	 list-style-type: none;
+	 background: #151515;
+	 font-family: verdana;
+	 font-size: 18px;
+	 text-align: center;
+	 font-weight: bold;
+	 color: #FFFFFF;
+	 border:5px dotted #FBEFEF;
+}
+#opbus2{
+	list-style-type: none;
+	background: #E6E6E6;
+	font-family: verdana;
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+	color:#151515;
+	border:5px dashed #8A0808;
+}
+#im3{
+	width: 200px;
+	height: 200px;
+	margin-top: 8%;
+	margin-bottom: 10%;
+	margin-left: 22%;
+	border:10px outset #FE2E2E;
+	
+}
+#musvida{
+	font-weight: bold;
+	font-family: verdana;
+	color: #8A0808;
+	text-align: center;
 }
