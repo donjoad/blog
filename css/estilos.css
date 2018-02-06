@@ -90,7 +90,7 @@ body{
 }
 footer{
 	background-color: #151515;
-	height: 50px;
+
 	width: 100%;
 	clear: both;
 	margin:0 auto;
@@ -111,4 +111,4 @@ footer{
 	font-size: 14px;
 	color: #F2F2F2;
 	text-align: center;
-	margin-top: 3%;
+	margin-top: 5%;
